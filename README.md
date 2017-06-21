@@ -5,6 +5,6 @@ In order to make use of this notebook, you have to register at the free-of-charg
 
 ## Contents
 
-*ScalaLinearAlgebraHandsOn.html* The notebook in html format.
+*ScalaLinearAlgebraHandsOn.html*: The notebook in html format.
 
-*ScalaLinearAlgebraHandsOn.scala* The content of the notebook as Scala source code. All non-Scala notebook cells were converted to comments.
+*ScalaLinearAlgebraHandsOn.scala*: The content of the notebook as Scala source code. All non-Scala notebook cells were converted to comments.
